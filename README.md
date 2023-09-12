@@ -6,11 +6,11 @@ Some useful websites for news, learning, assets and much more. Here's a non exha
 
 ## News
 
-- [Hacker News](https://news.ycombinator.com/)
-- [Hacker News Digest](https://hndigest.com/)
-- [Lobsters](https://lobste.rs/)
-- [Indie hackers](https://www.indiehackers.com/)
-- [Product hunt ](https://www.producthunt.com/)
+- [Hacker News](https://news.ycombinator.com/) - Reddit like news forum for programmers
+- [Hacker News Digest](https://hndigest.com/) - Curated newsletter
+- [Lobsters](https://lobste.rs/) - Technology-focused community centered around link aggregation and discussion
+- [Indie hackers](https://www.indiehackers.com/) - Work together to build profitable online businesses
+- [Product hunt ](https://www.producthunt.com/) - Discover new releases and products
 
 ## Assets
 
@@ -18,13 +18,13 @@ Free fonts, icons, images and videos
 
 ### Fonts
 
-[Jetbrains](https://www.jetbrains.com/lp/mono/)
-[Google fonts](https://fonts.google.com/)
+[Jetbrains](https://www.jetbrains.com/lp/mono/) - Jetbrains own font
+[Google fonts](https://fonts.google.com/) - A collection of fonts from google
 
 ### Icons
 
 - [Freepik](https://www.freepik.com/icons) - They also have a lot of illustrations
-- [The Noun project](https://thenounproject.com/)
+- [The Noun project](https://thenounproject.com/) - A lot of icons
 
 ### Images
 
@@ -32,9 +32,9 @@ Free fonts, icons, images and videos
 
 ## AI tools
 
-- [ChatGPT](https://chat.openai.com/)
-- [Github copilot](https://resources.github.com/copilot-for-business/?ef_id=_k_2667cb631756192c8f1cafb04b65b62a_k_&OCID=AIDcmm7mj0sudh_SEM__k_2667cb631756192c8f1cafb04b65b62a_k_&msclkid=2667cb631756192c8f1cafb04b65b62a)
-- [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
+- [ChatGPT](https://chat.openai.com/) - AI Chatbot
+- [Github copilot](https://resources.github.com/copilot-for-business/?ef_id=_k_2667cb631756192c8f1cafb04b65b62a_k_&OCID=AIDcmm7mj0sudh_SEM__k_2667cb631756192c8f1cafb04b65b62a_k_&msclkid=2667cb631756192c8f1cafb04b65b62a) - Your AI pair programmer
+- [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) - Generative art
 
 ## Coding styles
 
@@ -58,10 +58,10 @@ Free fonts, icons, images and videos
 
 ### Course platforms
 
-[Level up tutorials](https://levelup.video/)- High quality video tutorials for web developers and designers.
-[Wesbos](https://wesbos.com/courses)- JS and CSS courses
-[Egghead](https://egghead.io/)- Short and concise courses for web development and more
-[Frontend masters](https://frontendmasters.com/) - Advance Your Skills with In-Depth, Modern Front-End Engineering
+- [Level up tutorials](https://levelup.video/)- High quality video tutorials for web developers and designers.
+- [Wesbos](https://wesbos.com/courses)- JS and CSS courses
+- [Egghead](https://egghead.io/)- Short and concise courses for web development and more
+- [Frontend masters](https://frontendmasters.com/) - Advance Your Skills with In-Depth, Modern Front-End Engineering
 
 ## Roadmaps
 
