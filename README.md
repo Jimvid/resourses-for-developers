@@ -45,8 +45,8 @@ Free fonts, icons, images and videos
 - [Melkey](https://www.youtube.com/@MelkeyDev) - Programming, mostly covering Go
 - [Theprimeagen](https://www.youtube.com/@ThePrimeagen/videos) - All things programming, mostly TS, Rust and Go
 - [Webos](https://www.youtube.com/@WesBos) - Covering front- and backend JS
-- Bashbunni
-- Lower level learning
+- [Bashbunni](https://www.youtube.com/c/bashbunni) - Go, devrel and general programming
+- [Lower level learning](https://www.youtube.com/c/LowLevelLearning/videos) - Teaching you all about the lowest level
 - Code to the moon
 - No boilerplate
 - Kevin Powell
@@ -58,9 +58,9 @@ Free fonts, icons, images and videos
 
 ### Course platforms
 
-- [Level up tutorials](https://levelup.video/)- High quality video tutorials for web developers and designers.
-- [Wesbos](https://wesbos.com/courses)- JS and CSS courses
-- [Egghead](https://egghead.io/)- Short and concise courses for web development and more
+- [Level up tutorials](https://levelup.video/) - High quality video tutorials for web developers and designers.
+- [Wesbos](https://wesbos.com/courses) - JS and CSS courses
+- [Egghead](https://egghead.io/) - Short and concise courses for web development and more
 - [Frontend masters](https://frontendmasters.com/) - Advance Your Skills with In-Depth, Modern Front-End Engineering
 
 ## Roadmaps
